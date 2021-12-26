@@ -1,0 +1,63 @@
+Acilius spp.	Acilius	Acilius
+Aeshnidae	Aeshnidae	Aeshnidae
+Anguille	A. anguilla	A.anguilla
+Anisoptere	Anisoptera	Anisoptera
+Asellus aquaticus	Asellus aquaticus	A.aquaticus
+Bivalve	Bivalvia	Bivalvia
+Breme spp.	A. brama	A.brama
+Brochet	Esox lucius	E.lucius
+Carassin	Carassius carassius	C.carassius
+Carpe	Cyprinus carpio	C.carpio
+Chironomide	Chironomidae	Chironomidae
+Colymbetes spp.	Colymbetinae	Colymbetinae
+Corises	Corixidae	Corixidae
+Crapaud commun	Bufo bufo	Bufo bufo
+Crevette spp.	Shrimp	Shrimp
+Culicidae	Culicidae	Culicidae
+Cybister spp.	Cybister	Cybister
+Detritus	Detritus	Detritus
+Dytique	Dytiscidae	Dytiscidae
+Dytiscus spp.	Dytiscus	Dytiscus
+Ecrevisse de Louisiane	Procambarus clarkii	P.clarkii
+Ephemere	Ephemeroptera	Ephemeroptera
+Epinoche	Gasterosteus aculeatus	G.aculeatus
+Epinochette	Pungitius pungitius	P.pungitius
+Gambusie	Gambusia	Gambusia
+Gammare spp.	Gammarus	Gammarus
+Gardon	Rutilus rutilus	R.rutilus
+Gasteropode spp.	Gastropoda	Gastropoda
+Gerridae	Gerridae	Gerridae
+Glossiphonie	Glossiphonia	Glossiphonia
+Graphoderus spp.	Graphoderus	Graphoderus
+Grenouille agile	Rana dalmatina	R.dalmatina
+Grenouille verte	Pelophylax esculentus	P.esculentus
+Gyrinidae	Gyrinidae	Gyrinidae
+Hirudinea	Hirudinea	Hirudinea
+Hydrochara spp.	Hydrochara	Hydrochara
+Hydrometridae	Hydrometridae	Hydrometridae
+Hydrophilidae	Hydrophilidae	Hydrophilidae
+Hygrobia hermanni	Hygrobia hermanni	H.hermanni
+Libellulidae	Libellulidae	Libellulidae
+Limnee	Lymnaea	Lymnaea
+Macrophyte	Macrophyte	Macrophyte
+Naucoridae	Naucoridae	Naucoridae
+Nepidae	Nepidae	Nepidae
+Notonecta glauca	Notonecta glauca	N.glauca
+Pelodyte ponctue	Pelodytes punctatus	P.punctatus
+Perche-soleil	Lepomis gibbosus	L.gibbosus
+Perche franche	Perca fluviatilis	P.fluviatilis
+Physe	Physa	Physa
+Phytoplankton	Phytoplankton	Phytoplankton
+Poisson-chat	Ameiurus melas	A.melas
+Potamogyrus spp.	Potamogyrus	Potamogyrus
+Rainette verte	Hyla arborea	H.arborea
+Ranatre	Ranatra	Ranatra
+Rotengle	Scardinius erythrophthalmus	S.erythrophthalmus
+Salamandre tachetee	Salamandra salamandra	S.salamandra
+Tanche	Tinca tinca	Tinca tinca
+Trichoptere	Trichoptera	Trichoptera
+Triton marbre	Triturus marmoratus	T.marmoratus
+Triton palme	Lissotriton helveticus	L.helveticus
+Zooplankton	Zooplankton	Zooplankton
+Zygoptere	Zygoptera	Zygoptera
+Couleuvre a collier	Natrix natrix	N.natrix
