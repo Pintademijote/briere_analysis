@@ -1,0 +1,2719 @@
+Taxon_stdVie
+Grenouille agile_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Hygrobiidae_Ad
+Dytiscidae_Ad
+Grenouille agile_Ad
+Grenouille verte_Ad
+Hygrobiidae_Ad
+Dytiscidae_Ad
+Hygrobiidae_Ad
+Rainette verte_Ad
+Triton marbré_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Hygrobiidae_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Grenouille verte_Ad
+Hygrobiidae_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Grenouille agile_Ad
+Hygrobiidae_Ad
+Rainette verte_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Rainette verte_Ad
+Dytiscidae_Ad
+Grenouille verte_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Grenouille verte_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Grenouille verte_Ad
+Hygrobiidae_Ad
+Dytiscidae_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Grenouille verte_Ad
+Rainette verte_Ad
+Dytiscidae_Ad
+Hygrobiidae_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Hygrobiidae_Ad
+Dytiscidae_Ad
+Grenouille verte_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Hygrobiidae_Ad
+Dytiscidae_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Grenouille verte_Ad
+Hygrobiidae_Ad
+Dytiscidae_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Grenouille agile_Ad
+Rainette verte_Ad
+Dytiscidae_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Hygrobiidae_Ad
+Rainette verte_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Hygrobiidae_Ad
+Dytiscidae_Ad
+Hygrobiidae_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Hygrobiidae_Ad
+Dytiscidae_Ad
+Rainette verte_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Grenouille agile_Ad
+Dytiscidae_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Grenouille agile_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Grenouille verte_Ad
+Hygrobiidae_Ad
+Rainette verte_Ad
+Dytiscidae_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Grenouille verte_Ad
+Hygrobiidae_Ad
+Rainette verte_Ad
+Dytiscidae_Ad
+Grenouille verte_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Hygrobiidae_Ad
+Dytiscidae_Ad
+Rainette verte_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Hygrobiidae_Ad
+Dytiscidae_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Grenouille agile_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Grenouille verte_Ad
+Hygrobiidae_Ad
+Dytiscidae_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Grenouille verte_Ad
+Dytiscidae_Ad
+Grenouille verte_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Grenouille agile_Ad
+Dytiscidae_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Grenouille verte_Ad
+Dytiscidae_Ad
+Grenouille agile_Ad
+Dytiscidae_Ad
+Hygrobiidae_Ad
+Dytiscidae_Ad
+Hygrobiidae_Ad
+Rainette verte_Ad
+Dytiscidae_Ad
+Rainette verte_Ad
+Dytiscidae_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille verte_Ad
+Rainette verte_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Rainette verte_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Graphoderus spp._Ad
+Grenouille verte_Ad
+Rainette verte_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille verte_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Pélodyte ponctué_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille agile_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton marbré_Ad
+Dytiscus spp._Ad
+Hygrobiidae_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille agile_Ad
+Grenouille verte_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille verte_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille verte_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille verte_Ad
+Hygrobiidae_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Graphoderus spp._Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille verte_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Crapaud commun_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille agile_Ad
+Hygrobiidae_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Grenouille verte_Ad
+Dytiscus spp._Ad
+Hygrobiidae_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Grenouille verte_Ad
+Triton marbré_Ad
+Grenouille agile_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Grenouille agile_Ad
+Hygrobiidae_Ad
+Triton palmé_Ad
+Grenouille verte_Ad
+Dytiscus spp._Ad
+Dytiscus spp._Ad
+Triton marbré_Ad
+Dytiscus spp._Ad
+Grenouille agile_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Graphoderus spp._Ad
+Grenouille agile_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille agile_Ad
+Dytiscus spp._Ad
+Graphoderus spp._Ad
+Hygrobiidae_Ad
+Rainette verte_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille agile_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille verte_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Crapaud commun_Ad
+Dytiscus spp._Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Graphoderus spp._Ad
+Grenouille agile_Ad
+Hygrobiidae_Ad
+Rainette verte_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille agile_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Hygrobiidae_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Pélodyte ponctué_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille agile_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille verte_Ad
+Dytiscus spp._Ad
+Grenouille agile_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Hygrobiidae_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Crapaud commun_Ad
+Dytiscus spp._Ad
+Hygrobiidae_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille agile_Ad
+Hygrobiidae_Ad
+Pélodyte ponctué_Ad
+Dytiscus spp._Ad
+Grenouille agile_Ad
+Hygrobiidae_Ad
+Pélodyte ponctué_Ad
+Rainette verte_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Crapaud commun_Ad
+Dytiscus spp._Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Rainette verte_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Grenouille agile_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Rainette verte_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton marbré_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Grenouille agile_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille agile_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Grenouille agile_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille agile_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton marbré_Ad
+Crapaud commun_Ad
+Dytiscus spp._Ad
+Grenouille verte_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille agile_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Graphoderus spp._Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Crapaud commun_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille agile_Ad
+Crapaud commun_Ad
+Crapaud commun_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton marbré_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Triton marbré_Ad
+Crapaud commun_Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille agile_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille verte_Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Dytiscus spp._Ad
+Triton palmé_Ad
+Dytiscus spp._Ad
+Grenouille agile_Ad
+Grenouille verte_Ad
+Hygrobiidae_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Crapaud commun_Ad
+Grenouille agile_Ad
+Hygrobiidae_Ad
+Triton palmé_Ad
+Dytiscidae_Ad
+Hygrobiidae_Ad
+Hygrobiidae_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Hygrobiidae_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Hygrobiidae_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Triton marbré_Ad
+Triton marbré_Ad
+Triton marbré_Ad
+Triton marbré_Ad
+Triton marbré_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Triton palmé_Ad
+Grenouille agile_Ad
+Grenouille agile_Ad
+Rainette verte_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Dytiscidae_Ad
+Hygrobiidae_Ad
+Brochet_Ad
+Brochet
+Brochet
+Brochet
+Brochet
+Brochet
+Brochet
+Brochet
+Brochet
+Brochet
+Brochet
+Brochet
+Brochet
+Brochet
+Brochet
+Brochet
+Brochet
+Dytiscidae_L
+Triton palmé_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Dytiscidae_L
+Grenouille agile_L
+Anisoptère_L
+Dytiscidae_L
+Hygrobiidae_L
+Triton marbré_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton marbré_L
+Triton palmé_L
+Anisoptère_L
+Dytiscidae_L
+Grenouille agile_L
+Anisoptère_L
+Dytiscidae_L
+Hygrobiidae_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Dytiscidae_L
+Grenouille agile_L
+Anisoptère_L
+Salamandre tachetée_L
+Dytiscidae_L
+Hygrobiidae_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Dytiscidae_L
+Zygoptère_L
+Grenouille agile_L
+Anisoptère_L
+Salamandre tachetée_L
+Dytiscidae_L
+Hygrobiidae_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Anisoptère_L
+Dytiscidae_L
+Hydrophilidae_L
+Grenouille agile_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Grenouille agile_L
+Triton palmé_L
+Anisoptère_L
+Dytiscidae_L
+Triton palmé_L
+Zygoptère_L
+Grenouille agile_L
+Triton palmé_L
+Dytiscidae_L
+Grenouille agile_L
+Anisoptère_L
+Dytiscidae_L
+Hygrobiidae_L
+Triton marbré_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Anisoptère_L
+Dytiscidae_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Anisoptère_L
+Dytiscidae_L
+Hygrobiidae_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Anisoptère_L
+Dytiscidae_L
+Grenouille agile_L
+Hygrobiidae_L
+Triton marbré_L
+Triton palmé_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Grenouille agile_L
+Anisoptère_L
+Triton marbré_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Anisoptère_L
+Dytiscidae_L
+Grenouille agile_L
+Anisoptère_L
+Dytiscidae_L
+Hygrobiidae_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Grenouille agile_L
+Anisoptère_L
+Salamandre tachetée_L
+Dytiscidae_L
+Triton palmé_L
+Zygoptère_L
+Grenouille agile_L
+Triton palmé_L
+Dytiscidae_L
+Triton palmé_L
+Grenouille agile_L
+Salamandre tachetée_L
+Dytiscidae_L
+Hygrobiidae_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Anisoptère_L
+Dytiscidae_L
+Grenouille agile_L
+Anisoptère_L
+Salamandre tachetée_L
+Triton marbré_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Anisoptère_L
+Dytiscidae_L
+Grenouille agile_L
+Dytiscidae_L
+Hygrobiidae_L
+Triton palmé_L
+Zygoptère_L
+Grenouille agile_L
+Triton palmé_L
+Anisoptère_L
+Dytiscidae_L
+Zygoptère_L
+Grenouille agile_L
+Grenouille agile_L
+Triton palmé_L
+Anisoptère_L
+Salamandre tachetée_L
+Triton palmé_L
+Grenouille agile_L
+Triton palmé_L
+Dytiscidae_L
+Grenouille agile_L
+Salamandre tachetée_L
+Dytiscidae_L
+Triton palmé_L
+Grenouille agile_L
+Triton palmé_L
+Salamandre tachetée_L
+Dytiscidae_L
+Zygoptère_L
+Grenouille agile_L
+Anisoptère_L
+Dytiscidae_L
+Hygrobiidae_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Dytiscidae_L
+Zygoptère_L
+Grenouille agile_L
+Triton palmé_L
+Grenouille agile_L
+Triton palmé_L
+Anisoptère_L
+Salamandre tachetée_L
+Dytiscidae_L
+Hygrobiidae_L
+Triton palmé_L
+Triton palmé_L
+Anisoptère_L
+Dytiscidae_L
+Grenouille agile_L
+Dytiscidae_L
+Triton marbré_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Dytiscidae_L
+Grenouille agile_L
+Salamandre tachetée_L
+Dytiscidae_L
+Grenouille agile_L
+Triton palmé_L
+Salamandre tachetée_L
+Dytiscidae_L
+Grenouille agile_L
+Grenouille agile_L
+Triton palmé_L
+Anisoptère_L
+Dytiscidae_L
+Hygrobiidae_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Dytiscidae_L
+Grenouille agile_L
+Anisoptère_L
+Salamandre tachetée_L
+Dytiscidae_L
+Grenouille agile_L
+Triton palmé_L
+Anisoptère_L
+Salamandre tachetée_L
+Grenouille agile_L
+Anisoptère_L
+Salamandre tachetée_L
+Hygrobiidae_L
+Triton marbré_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton marbré_L
+Triton palmé_L
+Anisoptère_L
+Grenouille agile_L
+Anisoptère_L
+Dytiscidae_L
+Hygrobiidae_L
+Triton marbré_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Triton palmé_L
+Anisoptère_L
+Dytiscidae_L
+Hygrobiidae_L
+Zygoptère_L
+Salamandre tachetée_L
+Dytiscidae_L
+Triton palmé_L
+Zygoptère_L
+Grenouille agile_L
+Triton palmé_L
+Anisoptère_L
+Dytiscidae_L
+Grenouille agile_L
+Dytiscidae_L
+Triton palmé_L
+Zygoptère_L
+Crapaud commun_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Dytiscidae_L
+Grenouille agile_L
+Anisoptère_L
+Dytiscidae_L
+Triton marbré_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Triton palmé_L
+Anisoptère_L
+Dytiscidae_L
+Dytiscidae_L
+Hygrobiidae_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Dytiscidae_L
+Grenouille agile_L
+Salamandre tachetée_L
+Dytiscidae_L
+Hygrobiidae_L
+Triton palmé_L
+Zygoptère_L
+Grenouille agile_L
+Triton palmé_L
+Salamandre tachetée_L
+Dytiscidae_L
+Zygoptère_L
+Grenouille agile_L
+Anisoptère_L
+Salamandre tachetée_L
+Dytiscidae_L
+Grenouille agile_L
+Triton palmé_L
+Anisoptère_L
+Dytiscidae_L
+Grenouille agile_L
+Anisoptère_L
+Dytiscidae_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Anisoptère_L
+Dytiscidae_L
+Zygoptère_L
+Grenouille agile_L
+Triton palmé_L
+Zygoptère_L
+Grenouille agile_L
+Triton palmé_L
+Grenouille agile_L
+Dytiscidae_L
+Triton palmé_L
+Zygoptère_L
+Grenouille agile_L
+Triton palmé_L
+Dytiscidae_L
+Zygoptère_L
+Grenouille agile_L
+Salamandre tachetée_L
+Anisoptère_L
+Salamandre tachetée_L
+Dytiscidae_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Anisoptère_L
+Grenouille agile_L
+Dytiscidae_L
+Hydrophilidae_L
+Hygrobiidae_L
+Triton palmé_L
+Zygoptère_L
+Rainette verte_L
+Grenouille agile_L
+Triton palmé_L
+Dytiscidae_L
+Grenouille agile_L
+Dytiscus spp._L
+Salamandre tachetée_L
+Salamandre tachetée_L
+Salamandre tachetée_L
+Dytiscus spp._L
+Salamandre tachetée_L
+Dytiscus spp._L
+Dytiscus spp._L
+Grenouille agile_L
+Salamandre tachetée_L
+Hydrophilidae_L
+Grenouille agile_L
+Grenouille agile_L
+Dytiscus spp._L
+Aeschnidae_L
+Grenouille agile_L
+Zygoptère_L
+Dytiscus spp._L
+Aeschnidae_L
+Anisoptère_L
+Grenouille agile_L
+Dytiscus spp._L
+Dytiscus spp._L
+Grenouille agile_L
+Anisoptère_L
+Grenouille agile_L
+Dytiscus spp._L
+Grenouille agile_L
+Rainette verte_L
+Dytiscus spp._L
+Grenouille agile_L
+Rainette verte_L
+Trichoptera_L
+Anisoptère_L
+Grenouille agile_L
+Grenouille agile_L
+Grenouille agile_L
+Dytiscus spp._L
+Triton marbré_L
+Triton palmé_L
+Libellulidae_L
+Grenouille agile_L
+Rainette verte_L
+Trichoptera_L
+Zygoptère_L
+Dytiscus spp._L
+Grenouille agile_L
+Trichoptera_L
+Zygoptère_L
+Dytiscus spp._L
+Grenouille agile_L
+Aeschnidae_L
+Trichoptera_L
+Libellulidae_L
+Aeschnidae_L
+Grenouille agile_L
+Zygoptère_L
+Anisoptère_L
+Grenouille agile_L
+Aeschnidae_L
+Grenouille agile_L
+Dytiscus spp._L
+Grenouille agile_L
+Salamandre tachetée_L
+Grenouille agile_L
+Trichoptera_L
+Dytiscus spp._L
+Grenouille agile_L
+Rainette verte_L
+Zygoptère_L
+Grenouille agile_L
+Dytiscus spp._L
+Triton palmé_L
+Libellulidae_L
+Grenouille agile_L
+Rainette verte_L
+Hydrophilidae_L
+Aeschnidae_L
+Grenouille agile_L
+Trichoptera_L
+Grenouille agile_L
+Dytiscus spp._L
+Aeschnidae_L
+Grenouille agile_L
+Dytiscus spp._L
+Grenouille agile_L
+Dytiscus spp._L
+Grenouille agile_L
+Dytiscus spp._L
+Hydrophilidae_L
+Anisoptère_L
+Grenouille agile_L
+Aeschnidae_L
+Grenouille agile_L
+Dytiscus spp._L
+Hydrophilidae_L
+Grenouille agile_L
+Dytiscus spp._L
+Hydrophilidae_L
+Libellulidae_L
+Aeschnidae_L
+Grenouille agile_L
+Rainette verte_L
+Dytiscus spp._L
+Hydrophilidae_L
+Libellulidae_L
+Aeschnidae_L
+Grenouille agile_L
+Trichoptera_L
+Hydrophilidae_L
+Libellulidae_L
+Aeschnidae_L
+Grenouille agile_L
+Rainette verte_L
+Zygoptère_L
+Libellulidae_L
+Aeschnidae_L
+Anisoptère_L
+Grenouille agile_L
+Anisoptère_L
+Dytiscus spp._L
+Trichoptera_L
+Aeschnidae_L
+Rainette verte_L
+Dytiscus spp._L
+Aeschnidae_L
+Anisoptère_L
+Grenouille agile_L
+Dytiscus spp._L
+Triton palmé_L
+Aeschnidae_L
+Grenouille agile_L
+Libellulidae_L
+Grenouille agile_L
+Zygoptère_L
+Aeschnidae_L
+Aeschnidae_L
+Dytiscus spp._L
+Triton marbré_L
+Aeschnidae_L
+Grenouille agile_L
+Dytiscus spp._L
+Grenouille agile_L
+Dytiscus spp._L
+Aeschnidae_L
+Dytiscus spp._L
+Anisoptère_L
+Grenouille agile_L
+Trichoptera_L
+Trichoptera_L
+Dytiscus spp._L
+Hydrophilidae_L
+Aeschnidae_L
+Rainette verte_L
+Dytiscus spp._L
+Libellulidae_L
+Libellulidae_L
+Aeschnidae_L
+Grenouille agile_L
+Trichoptera_L
+Dytiscus spp._L
+Triton palmé_L
+Libellulidae_L
+Aeschnidae_L
+Anisoptère_L
+Grenouille agile_L
+Triton palmé_L
+Libellulidae_L
+Aeschnidae_L
+Anisoptère_L
+Grenouille agile_L
+Zygoptère_L
+Dytiscus spp._L
+Dytiscus spp._L
+Grenouille agile_L
+Trichoptera_L
+Dytiscus spp._L
+Grenouille agile_L
+Dytiscus spp._L
+Libellulidae_L
+Dytiscus spp._L
+Libellulidae_L
+Aeschnidae_L
+Anisoptère_L
+Grenouille agile_L
+Trichoptera_L
+Zygoptère_L
+Dytiscus spp._L
+Grenouille agile_L
+Trichoptera_L
+Grenouille agile_L
+Dytiscus spp._L
+Salamandre tachetée_L
+Grenouille agile_L
+Salamandre tachetée_L
+Dytiscus spp._L
+Triton palmé_L
+Aeschnidae_L
+Grenouille agile_L
+Dytiscus spp._L
+Grenouille agile_L
+Dytiscus spp._L
+Libellulidae_L
+Grenouille agile_L
+Dytiscus spp._L
+Dytiscus spp._L
+Salamandre tachetée_L
+Libellulidae_L
+Grenouille agile_L
+Rainette verte_L
+Zygoptère_L
+Aeschnidae_L
+Trichoptera_L
+Libellulidae_L
+Grenouille agile_L
+Dytiscus spp._L
+Aeschnidae_L
+Grenouille agile_L
+Trichoptera_L
+Grenouille agile_L
+Dytiscus spp._L
+Dytiscus spp._L
+Salamandre tachetée_L
+Aeschnidae_L
+Grenouille agile_L
+Trichoptera_L
+Dytiscus spp._L
+Aeschnidae_L
+Grenouille agile_L
+Trichoptera_L
+Triton palmé_L
+Grenouille agile_L
+Dytiscus spp._L
+Dytiscus spp._L
+Grenouille agile_L
+Dytiscus spp._L
+Aeschnidae_L
+Grenouille agile_L
+Dytiscus spp._L
+Salamandre tachetée_L
+Aeschnidae_L
+Anisoptère_L
+Trichoptera_L
+Dytiscus spp._L
+Aeschnidae_L
+Anisoptère_L
+Grenouille agile_L
+Dytiscus spp._L
+Triton palmé_L
+Libellulidae_L
+Aeschnidae_L
+Grenouille agile_L
+Rainette verte_L
+Trichoptera_L
+Grenouille agile_L
+Dytiscus spp._L
+Grenouille agile_L
+Dytiscus spp._L
+Hydrophilidae_L
+Triton palmé_L
+Aeschnidae_L
+Dytiscus spp._L
+Grenouille agile_L
+Dytiscus spp._L
+Libellulidae_L
+Grenouille agile_L
+Dytiscus spp._L
+Grenouille agile_L
+Dytiscus spp._L
+Grenouille agile_L
+Dytiscus spp._L
+Grenouille agile_L
+Libellulidae_L
+Grenouille agile_L
+Aeschnidae_L
+Dytiscus spp._L
+Aeschnidae_L
+Dytiscus spp._L
+Salamandre tachetée_L
+Dytiscus spp._L
+Dytiscus spp._L
+Dytiscus spp._L
+Grenouille agile_L
+Grenouille agile_L
+Dytiscus spp._L
+Grenouille agile_L
+Dytiscus spp._L
+Grenouille agile_L
+Salamandre tachetée_L
+Grenouille agile_L
+Triton palmé_L
+Grenouille agile_L
+Trichoptera_L
+Dytiscus spp._L
+Grenouille agile_L
+Dytiscus spp._L
+Grenouille agile_L
+Dytiscus spp._L
+Grenouille agile_L
+Dytiscus spp._L
+Zygoptère_L
+Zygoptère_L
+Libellulidae_L
+Libellulidae_L
+Dytiscus spp._L
+Aeschnidae_L
+Grenouille agile_L
+Trichoptera_L
+Dytiscus spp._L
+Aeschnidae_L
+Anisoptère_L
+Grenouille agile_L
+Libellulidae_L
+Grenouille agile_L
+Dytiscus spp._L
+Aeschnidae_L
+Anisoptère_L
+Grenouille agile_L
+Dytiscus spp._L
+Aeschnidae_L
+Grenouille agile_L
+Grenouille agile_L
+Dytiscus spp._L
+Grenouille agile_L
+Dytiscus spp._L
+Grenouille agile_L
+Zygoptère_L
+Zygoptère_L
+Libellulidae_L
+Anisoptère_L
+Trichoptera_L
+Anisoptère_L
+Grenouille agile_L
+Grenouille agile_L
+Anisoptère_L
+Grenouille agile_L
+Dytiscus spp._L
+Dytiscus spp._L
+Salamandre tachetée_L
+Grenouille agile_L
+Zygoptère_L
+Dytiscus spp._L
+Dytiscus spp._L
+Salamandre tachetée_L
+Trichoptera_L
+Salamandre tachetée_L
+Trichoptera_L
+Dytiscus spp._L
+Aeschnidae_L
+Grenouille agile_L
+Dytiscus spp._L
+Salamandre tachetée_L
+Libellulidae_L
+Aeschnidae_L
+Grenouille agile_L
+Trichoptera_L
+Zygoptère_L
+Dytiscus spp._L
+Grenouille agile_L
+Libellulidae_L
+Aeschnidae_L
+Libellulidae_L
+Grenouille agile_L
+Trichoptera_L
+Trichoptera_L
+Dytiscus spp._L
+Hydrophilidae_L
+Aeschnidae_L
+Grenouille agile_L
+Dytiscus spp._L
+Anisoptère_L
+Ephémère_L
+Triton palmé_L
+Zygoptère_L
+Anisoptère_L
+Triton marbré_L
+Triton palmé_L
+Grenouille agile_L
+Rainette verte_L
+Zygoptère_L
+Anisoptère_L
+Ephémère_L
+Chironomidae_L
+Hygrobiidae_L
+Culicidae_L
+Triton marbré_L
+Triton palmé_L
+Trichoptera_L
+Zygoptère_L
+Anisoptère_L
+Chironomidae_L
+Dytiscidae_L
+Hygrobiidae_L
+Culicidae_L
+Triton palmé_L
+Trichoptera_L
+Grenouille agile_L
+Rainette verte_L
+Zygoptère_L
+Anisoptère_L
+Chironomidae_L
+Dytiscidae_L
+Hydrophilidae_L
+Hygrobiidae_L
+Culicidae_L
+Triton palmé_L
+Grenouille agile_L
+Zygoptère_L
+Anisoptère_L
+Culicidae_L
+Triton palmé_L
+Anisoptère_L
+Culicidae_L
+Chironomidae_L
+Dytiscidae_L
+Triton palmé_L
+Grenouille agile_L
+Rainette verte_L
+Zygoptère_L
+Anisoptère_L
+Ephémère_L
+Hygrobiidae_L
+Culicidae_L
+Triton palmé_L
+Grenouille agile_L
+Rainette verte_L
+Zygoptère_L
+Anisoptère_L
+Triton palmé_L
+Grenouille agile_L
+Rainette verte_L
+Zygoptère_L
+Zygoptère_L
+Dytiscidae_L
+Hygrobiidae_L
+Hygrobiidae_L
+Hygrobiidae_L
+Chironomidae_L
+Chironomidae_L
+Hydrophilidae_L
+Chironomidae_L
+Chironomidae_L
+Anisoptère_L
+Chironomidae_L
+Chironomidae_L
+Zygoptère_L
+Dytiscidae_L
+Hydrophilidae_L
+Hygrobiidae_L
+Triton marbré_L
+Triton palmé_L
+Grenouille agile_L
+Rainette verte_L
+Zygoptère
+Dytiscidae_L
+Hygrobiidae_L
+Triton marbré_L
+Triton palmé_L
+Grenouille agile_L
+Rainette verte_L
+Zygoptère
+Chironomidae_L
+Dytiscidae_L
+Chironomidae_L
+Dytiscidae_L
+Zygoptère
+Ephémère_L
+Chironomidae_L
+Dytiscidae_L
+Triton marbré_L
+Triton palmé_L
+Grenouille agile_L
+Rainette verte_L
+Zygoptère
+Chironomidae_L
+Dytiscidae_L
+Hydrophilidae_L
+Hygrobiidae_L
+Triton palmé_L
+Grenouille agile_L
+Zygoptère
+Chironomidae_L
+Hygrobiidae_L
+Triton palmé_L
+Grenouille agile_L
+Zygoptère
+Chironomidae_L
+Dytiscidae_L
+Grenouille agile_L
+Rainette verte_L
+Chironomidae_L
+Zygoptère
+Ephémère_L
+Chironomidae_L
+Salamandre tachetée_L
+Hydrophilidae_L
+Culicidae_L
+Grenouille agile_L
+Chironomidae_L
+Culicidae_L
+Grenouille agile_L
+Crevette spp.
+Gambusie
+Ecrevisse de Louisiane
+Brème spp.
+Crevette spp.
+Gambusie
+Ecrevisse de Louisiane
+Perche-soleil
+Rotengle
+Corixidae
+Notonecta glauca
+Nepidae
+Corixidae
+Couleuvre à collier
+Notonecta glauca
+Corixidae
+Naucoridae
+Nepidae
+Notonecta glauca
+Nepidae
+Anguille
+Corixidae
+Naucoridae
+Notonecta glauca
+Hydrophilidae
+Notonecta glauca
+Corixidae
+Hydrophilidae
+Nepidae
+Notonecta glauca
+Hydrophilidae
+Nepidae
+Notonecta glauca
+Anguille
+Naucoridae
+Nepidae
+Hydrophilidae
+Naucoridae
+Corixidae
+Notonecta glauca
+Corixidae
+Hydrophilidae
+Naucoridae
+Notonecta glauca
+Nepidae
+Notonecta glauca
+Notonecta glauca
+Nepidae
+Corixidae
+Notonecta glauca
+Corixidae
+Naucoridae
+Notonecta glauca
+Notonecta glauca
+Corixidae
+Notonecta glauca
+Anguille
+Nepidae
+Corixidae
+Naucoridae
+Notonecta glauca
+Ecrevisse de Louisiane
+Nepidae
+Ecrevisse de Louisiane
+Naucoridae
+Notonecta glauca
+Corixidae
+Notonecta glauca
+Hydrophilidae
+Nepidae
+Notonecta glauca
+Ecrevisse de Louisiane
+Notonecta glauca
+Ecrevisse de Louisiane
+Notonecta glauca
+Gerridae
+Corixidae
+Notonecta glauca
+Ecrevisse de Louisiane
+Gardon
+Naucoridae
+Notonecta glauca
+Rotengle
+Ecrevisse de Louisiane
+Corixidae
+Ecrevisse de Louisiane
+Naucoridae
+Notonecta glauca
+Ecrevisse de Louisiane
+Gerridae
+Hydrometridae
+Gerridae
+Hydrometridae
+Corixidae
+Notonecta glauca
+Notonecta glauca
+Corixidae
+Notonecta glauca
+Hydrophilidae
+Corixidae
+Ecrevisse de Louisiane
+Gerridae
+Notonecta glauca
+Ecrevisse de Louisiane
+Gerridae
+Notonecta glauca
+Ecrevisse de Louisiane
+Nepidae
+Corixidae
+Gyrinidae
+Naucoridae
+Notonecta glauca
+Corixidae
+Gerridae
+Notonecta glauca
+Notonecta glauca
+Corixidae
+Notonecta glauca
+Corixidae
+Notonecta glauca
+Ecrevisse de Louisiane
+Gerridae
+Notonecta glauca
+Perche-soleil
+Ecrevisse de Louisiane
+Perche-soleil
+Corixidae
+Ecrevisse de Louisiane
+Gerridae
+Notonecta glauca
+Ecrevisse de Louisiane
+Corixidae
+Ecrevisse de Louisiane
+Anguille
+Ecrevisse de Louisiane
+Hydrophilidae
+Anguille
+Corixidae
+Gardon
+Gerridae
+Notonecta glauca
+Anguille
+Ecrevisse de Louisiane
+Gardon
+Rotengle
+Corixidae
+Notonecta glauca
+Nepidae
+Corixidae
+Notonecta glauca
+Hydrophilidae
+Ecrevisse de Louisiane
+Perche-soleil
+Perche franche
+Poisson-chat
+Rotengle
+Ecrevisse de Louisiane
+Perche franche
+Poisson-chat
+Ecrevisse de Louisiane
+Ecrevisse de Louisiane
+Perche franche
+Poisson-chat
+Colymbetes spp.
+Ecrevisse de Louisiane
+Poisson-chat
+Rotengle
+Anguille
+Cybister spp.
+Gardon
+Ecrevisse de Louisiane
+Perche-soleil
+Poisson-chat
+Ecrevisse de Louisiane
+Poisson-chat
+Rotengle
+Ecrevisse de Louisiane
+Colymbetes spp.
+Limnée
+Ecrevisse de Louisiane
+Perche-soleil
+Notonecta glauca
+Colymbetes spp.
+Limnée
+Notonecta glauca
+Ecrevisse de Louisiane
+Perche-soleil
+Perche-soleil
+Limnée
+Physe
+Colymbetes spp.
+Colymbetes spp.
+Hydrochara spp.
+Colymbetes spp.
+Ecrevisse de Louisiane
+Physe
+Physe
+Colymbetes spp.
+Ecrevisse de Louisiane
+Ecrevisse de Louisiane
+Anguille
+Colymbetes spp.
+Nepidae
+Colymbetes spp.
+Ecrevisse de Louisiane
+Anguille
+Ecrevisse de Louisiane
+Rotengle
+Limnée
+Ecrevisse de Louisiane
+Perche-soleil
+Rotengle
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Hydrophilidae
+Notonecta glauca
+Acilius spp.
+Anguille
+Colymbetes spp.
+Cybister spp.
+Hydrochara spp.
+Notonecta glauca
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Acilius spp.
+Anguille
+Carpe
+Colymbetes spp.
+Corixidae
+Cybister spp.
+Hydrochara spp.
+Notonecta glauca
+Ecrevisse de Louisiane
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Gambusie
+Nepidae
+Notonecta glauca
+Acilius spp.
+Colymbetes spp.
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Rotengle
+Acilius spp.
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Cybister spp.
+Gasteropode spp.
+Hydrophilidae
+Limnée
+Notonecta glauca
+Physe
+Ranatre
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Hydrochara spp.
+Nepidae
+Physe
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Notonecta glauca
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Notonecta glauca
+Acilius spp.
+Hydrochara spp.
+Acilius spp.
+Anguille
+Colymbetes spp.
+Corixidae
+Cybister spp.
+Epinoche
+Hydrochara spp.
+Notonecta glauca
+Ecrevisse de Louisiane
+Physe
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Tanche
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Ecrevisse de Louisiane
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Cybister spp.
+Hydrochara spp.
+Notonecta glauca
+Notonecta glauca
+Ranatre
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Couleuvre à collier
+Couleuvre à collier
+Gasteropode spp.
+Hydrochara spp.
+Hydrophilidae
+Notonecta glauca
+Ranatre
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Hydrochara spp.
+Colymbetes spp.
+Gardon
+Hydrochara spp.
+Limnée
+Perche-soleil
+Acilius spp.
+Colymbetes spp.
+Notonecta glauca
+Anguille
+Colymbetes spp.
+Notonecta glauca
+Ecrevisse de Louisiane
+Perche-soleil
+Physe
+Poisson-chat
+Rotengle
+Acilius spp.
+Hydrochara spp.
+Acilius spp.
+Anguille
+Colymbetes spp.
+Cybister spp.
+Hydrochara spp.
+Naucoridae
+Nepidae
+Notonecta glauca
+Ecrevisse de Louisiane
+Perche-soleil
+Acilius spp.
+Anguille
+Colymbetes spp.
+Cybister spp.
+Hydrochara spp.
+Notonecta glauca
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Nepidae
+Notonecta glauca
+Acilius spp.
+Colymbetes spp.
+Acilius spp.
+Anguille
+Colymbetes spp.
+Cybister spp.
+Gasteropode spp.
+Limnée
+Notonecta glauca
+Ecrevisse de Louisiane
+Physe
+Colymbetes spp.
+Cybister spp.
+Notonecta glauca
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Naucoridae
+Notonecta glauca
+Ranatre
+Acilius spp.
+Anguille
+Colymbetes spp.
+Hydrochara spp.
+Notonecta glauca
+Ecrevisse de Louisiane
+Rotengle
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Hydrochara spp.
+Notonecta glauca
+Notonecta glauca
+Physe
+Acilius spp.
+Anguille
+Colymbetes spp.
+Corixidae
+Hydrochara spp.
+Hydrophilidae
+Notonecta glauca
+Ranatre
+Acilius spp.
+Anguille
+Colymbetes spp.
+Ecrevisse de Louisiane
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Gasteropode spp.
+Physe
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Ecrevisse de Louisiane
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Hydrophilidae
+Nepidae
+Notonecta glauca
+Ranatre
+Acilius spp.
+Hydrochara spp.
+Notonecta glauca
+Physe
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Cybister spp.
+Hydrochara spp.
+Hydrophilidae
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Cybister spp.
+Hydrochara spp.
+Hydrophilidae
+Naucoridae
+Notonecta glauca
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Hydrochara spp.
+Hydrophilidae
+Notonecta glauca
+Colymbetes spp.
+Ecrevisse de Louisiane
+Perche-soleil
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Cybister spp.
+Gasteropode spp.
+Hydrophilidae
+Limnée
+Naucoridae
+Notonecta glauca
+Physe
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Notonecta glauca
+Ecrevisse de Louisiane
+Carpe
+Colymbetes spp.
+Rotengle
+Colymbetes spp.
+Notonecta glauca
+Poisson-chat
+Tanche
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Notonecta glauca
+Physe
+Cybister spp.
+Hydrophilidae
+Acilius spp.
+Colymbetes spp.
+Notonecta glauca
+Ecrevisse de Louisiane
+Colymbetes spp.
+Gasteropode spp.
+Poisson-chat
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Hydrochara spp.
+Notonecta glauca
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Notonecta glauca
+Ranatre
+Carpe
+Anguille
+Cybister spp.
+Gardon
+Rotengle
+Acilius spp.
+Colymbetes spp.
+Notonecta glauca
+Acilius spp.
+Colymbetes spp.
+Gasteropode spp.
+Hydrochara spp.
+Hydrophilidae
+Notonecta glauca
+Ecrevisse de Louisiane
+Physe
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Ecrevisse de Louisiane
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Hydrochara spp.
+Hydrophilidae
+Notonecta glauca
+Colymbetes spp.
+Corixidae
+Hydrophilidae
+Ecrevisse de Louisiane
+Perche-soleil
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Hydrophilidae
+Notonecta glauca
+Ranatre
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Physe
+Acilius spp.
+Colymbetes spp.
+Notonecta glauca
+Ranatre
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Cybister spp.
+Hydrochara spp.
+Naucoridae
+Nepidae
+Notonecta glauca
+Ecrevisse de Louisiane
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Hydrophilidae
+Naucoridae
+Nepidae
+Notonecta glauca
+Ecrevisse de Louisiane
+Ranatre
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Cybister spp.
+Hydrochara spp.
+Notonecta glauca
+Acilius spp.
+Colymbetes spp.
+Notonecta glauca
+Ecrevisse de Louisiane
+Acilius spp.
+Hydrochara spp.
+Ecrevisse de Louisiane
+Gambusie
+Limnée
+Ecrevisse de Louisiane
+Perche-soleil
+Perche franche
+Colymbetes spp.
+Ecrevisse de Louisiane
+Poisson-chat
+Ranatre
+Rotengle
+Carpe
+Colymbetes spp.
+Ecrevisse de Louisiane
+Perche-soleil
+Rotengle
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Gasteropode spp.
+Hydrochara spp.
+Hydrophilidae
+Notonecta glauca
+Ecrevisse de Louisiane
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Physe
+Colymbetes spp.
+Physe
+Rotengle
+Carpe
+Acilius spp.
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Hydrochara spp.
+Acilius spp.
+Colymbetes spp.
+Notonecta glauca
+Ecrevisse de Louisiane
+Acilius spp.
+Hydrochara spp.
+Notonecta glauca
+Acilius spp.
+Ecrevisse de Louisiane
+Physe
+Brème spp.
+Colymbetes spp.
+Cybister spp.
+Gardon
+Nepidae
+Rotengle
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Hydrochara spp.
+Ranatre
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Nepidae
+Notonecta glauca
+Ecrevisse de Louisiane
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Hydrophilidae
+Physe
+Notonecta glauca
+Ecrevisse de Louisiane
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Ecrevisse de Louisiane
+Physe
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Gasteropode spp.
+Notonecta glauca
+Ecrevisse de Louisiane
+Acilius spp.
+Ecrevisse de Louisiane
+Gambusie
+Ecrevisse de Louisiane
+Perche-soleil
+Perche franche
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Hydrochara spp.
+Notonecta glauca
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Hydrochara spp.
+Notonecta glauca
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Notonecta glauca
+Ecrevisse de Louisiane
+Rotengle
+Acilius spp.
+Colymbetes spp.
+Notonecta glauca
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Cybister spp.
+Gasteropode spp.
+Hydrochara spp.
+Notonecta glauca
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Acilius spp.
+Corixidae
+Hydrochara spp.
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Nepidae
+Notonecta glauca
+Notonecta glauca
+Ranatre
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Hydrochara spp.
+Hydrophilidae
+Notonecta glauca
+Notonecta glauca
+Physe
+Ranatre
+Acilius spp.
+Acilius spp.
+Colymbetes spp.
+Couleuvre à collier
+Ecrevisse de Louisiane
+Acilius spp.
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Acilius spp.
+Hydrochara spp.
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Ecrevisse de Louisiane
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Notonecta glauca
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Acilius spp.
+Notonecta glauca
+Ecrevisse de Louisiane
+Acilius spp.
+Cybister spp.
+Hydrochara spp.
+Ecrevisse de Louisiane
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Gardon
+Acilius spp.
+Cybister spp.
+Hydrochara spp.
+Gambusie
+Ecrevisse de Louisiane
+Acilius spp.
+Hydrochara spp.
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Hydrochara spp.
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Ecrevisse de Louisiane
+Acilius spp.
+Colymbetes spp.
+Anguille
+Acilius spp.
+Hydrochara spp.
+Ecrevisse de Louisiane
+Acilius spp.
+Cybister spp.
+Hydrochara spp.
+Acilius spp.
+Hydrochara spp.
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Acilius spp.
+Colymbetes spp.
+Crevette spp.
+Gambusie
+Ecrevisse de Louisiane
+Acilius spp.
+Colymbetes spp.
+Acilius spp.
+Colymbetes spp.
+Notonecta glauca
+Notonecta glauca
+Colymbetes spp.
+Cybister spp.
+Notonecta glauca
+Ecrevisse de Louisiane
+Anguille
+Colymbetes spp.
+Cybister spp.
+Ecrevisse de Louisiane
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Notonecta glauca
+Acilius spp.
+Cybister spp.
+Anguille
+Colymbetes spp.
+Epinoche
+Ecrevisse de Louisiane
+Perche-soleil
+Physe
+Rotengle
+Anguille
+Colymbetes spp.
+Crevette spp.
+Epinoche
+Notonecta glauca
+Ecrevisse de Louisiane
+Perche-soleil
+Poisson-chat
+Rotengle
+Acilius spp.
+Anguille
+Cybister spp.
+Notonecta glauca
+Ecrevisse de Louisiane
+Perche-soleil
+Poisson-chat
+Anguille
+Colymbetes spp.
+Cybister spp.
+Hydrophilidae
+Ecrevisse de Louisiane
+Perche-soleil
+Rotengle
+Notonecta glauca
+Ecrevisse de Louisiane
+Rotengle
+Acilius spp.
+Anguille
+Colymbetes spp.
+Notonecta glauca
+Perche-soleil
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Hydrochara spp.
+Acilius spp.
+Hydrochara spp.
+Nepidae
+Notonecta glauca
+Ranatre
+Carpe
+Ecrevisse de Louisiane
+Gambusie
+Ecrevisse de Louisiane
+Perche-soleil
+Poisson-chat
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Hydrophilidae
+Notonecta glauca
+Ecrevisse de Louisiane
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Ecrevisse de Louisiane
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Hydrochara spp.
+Acilius spp.
+Carpe
+Colymbetes spp.
+Epinoche
+Limnée
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Notonecta glauca
+Notonecta glauca
+Colymbetes spp.
+Rotengle
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Notonecta glauca
+Ecrevisse de Louisiane
+Ecrevisse de Louisiane
+Physe
+Acilius spp.
+Colymbetes spp.
+Gasteropode spp.
+Hydrochara spp.
+Limnée
+Notonecta glauca
+Physe
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Cybister spp.
+Notonecta glauca
+Ecrevisse de Louisiane
+Cybister spp.
+Hydrochara spp.
+Ecrevisse de Louisiane
+Perche-soleil
+Physe
+Gambusie
+Ecrevisse de Louisiane
+Perche-soleil
+Poisson-chat
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Gambusie
+Ecrevisse de Louisiane
+Perche-soleil
+Gambusie
+Ecrevisse de Louisiane
+Perche-soleil
+Poisson-chat
+Colymbetes spp.
+Gambusie
+Ecrevisse de Louisiane
+Perche-soleil
+Physe
+Acilius spp.
+Colymbetes spp.
+Gambusie
+Hydrochara spp.
+Limnée
+Ecrevisse de Louisiane
+Anguille
+Colymbetes spp.
+Cybister spp.
+Naucoridae
+Notonecta glauca
+Perche-soleil
+Acilius spp.
+Colymbetes spp.
+Hydrochara spp.
+Ecrevisse de Louisiane
+Physe
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Hydrochara spp.
+Acilius spp.
+Colymbetes spp.
+Notonecta glauca
+Acilius spp.
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Hydrochara spp.
+Naucoridae
+Notonecta glauca
+Ranatre
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Hydrochara spp.
+Notonecta glauca
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Gardon
+Hydrochara spp.
+Naucoridae
+Ranatre
+Rotengle
+Gambusie
+Limnée
+Ecrevisse de Louisiane
+Physe
+Poisson-chat
+Ranatre
+Rotengle
+Acilius spp.
+Colymbetes spp.
+Ecrevisse de Louisiane
+Perche-soleil
+Poisson-chat
+Rotengle
+Tanche
+Acilius spp.
+Colymbetes spp.
+Cybister spp.
+Hydrochara spp.
+Notonecta glauca
+Acilius spp.
+Colymbetes spp.
+Corixidae
+Hydrochara spp.
+Hydrophilidae
+Limnée
+Nepidae
+Notonecta glauca
+Ecrevisse de Louisiane
+Physe
+Hydrochara spp.
+Ecrevisse de Louisiane
+Poisson-chat
+Ecrevisse de Louisiane
+Perche-soleil
+Poisson-chat
+Ecrevisse de Louisiane
+Ecrevisse de Louisiane
+Ecrevisse de Louisiane
+Perche-soleil
+Poisson-chat
+Colymbetes spp.
+Gambusie
+Ecrevisse de Louisiane
+Perche-soleil
+Rotengle
+Ecrevisse de Louisiane
+Perche-soleil
+Rotengle
+Acilius spp.
+Asellus aquaticus
+Corixidae
+Gerridae
+Naucoridae
+Notonecta glauca
+Perche-soleil
+Acilius spp.
+Asellus aquaticus
+Corixidae
+Notonecta glauca
+Physe
+Ranatre
+Acilius spp.
+Naucoridae
+Notonecta glauca
+Petit dytique
+Physe
+Hirudinea
+Acilius spp.
+Corixidae
+Ecrevisse de Louisiane
+Gammare spp.
+Gerridae
+Notonecta glauca
+Petit dytique
+Physe
+Asellus aquaticus
+Bivalve
+Corixidae
+Petit dytique
+Très petit dytique
+Asellus aquaticus
+Ecrevisse de Louisiane
+Gammare spp.
+Gerridae
+Notonecta glauca
+Petit dytique
+Physe
+Anguille
+Ecrevisse de Louisiane
+Gammare spp.
+Corixidae
+Ecrevisse de Louisiane
+Gammare spp.
+Gerridae
+Naucoridae
+Notonecta glauca
+Petit dytique
+Physe
+Asellus aquaticus
+Bivalve
+Corixidae
+Ecrevisse de Louisiane
+Gammare spp.
+Notonecta glauca
+Petit dytique
+Physe
+Acilius spp.
+Corixidae
+Ecrevisse de Louisiane
+Notonecta glauca
+Gammare spp.
+Asellus aquaticus
+Ecrevisse de Louisiane
+Notonecta glauca
+Notonecta glauca
+Acilius spp.
+Acilius spp.
+Acilius spp.
+Acilius spp.
+Acilius spp.
+Petit dytique
+Petit dytique
+Petit dytique
+Gerridae
+Gerridae
+Gerridae
+Gerridae
+Physe
+Physe
+Corixidae
+Très petit dytique
+Très petit dytique
+Très petit dytique
+Très petit dytique
+Très petit dytique
+Très petit dytique
+Nepidae
+Nepidae
+Nepidae
+Nepidae
+Nepidae
+Nepidae
+Naucoridae
+Naucoridae
+Hydrophilidae
+Hydrophilidae
+Hydrophilidae
+Hydrophilidae
+Hydrophilidae
+Ranatre
+Ranatre
+Hirudinea
+Hirudinea
+Bivalve
+Gyrinidae
+Gyrinidae
+Gardon
+Anguille
+Asellus aquaticus
+Brème spp.
+Carassin
+Carpe
+Corixidae
+Ecrevisse de Louisiane
+Ecrevisse de Louisiane
+Gammare spp.
+Gardon
+Perche-soleil
+Physe
+Poisson-chat
+Rotengle
+Anguille
+Asellus aquaticus
+Brème spp.
+Carassin
+Carpe
+Corixidae
+Ecrevisse de Louisiane
+Ecrevisse de Louisiane
+Epinoche
+Gammare spp.
+Gardon
+Perche-soleil
+Physe
+Poisson-chat
+Rotengle
+Asellus aquaticus
+Corixidae
+Ecrevisse de Louisiane
+Gambusie
+Gammare spp.
+Gerridae
+Gerridae
+Notonecta glauca
+Physe
+Asellus aquaticus
+Gerridae
+Colymbetes spp.
+Corixidae
+Crevette spp.
+Ecrevisse de Louisiane
+Epinochette
+Gambusie
+Gammare spp.
+Gerridae
+Naucoridae
+Notonecta glauca
+Physe
+Potamogyrus spp.
+Ecrevisse de Louisiane
+Notonecta glauca
+Perche-soleil
+Physe
+Rotengle
+Asellus aquaticus
+Ecrevisse de Louisiane
+Notonecta glauca
+Physe
+Rotengle
+Asellus aquaticus
+Ecrevisse de Louisiane
+Perche-soleil
+Physe
+Rotengle
+Acilius spp.
+Asellus aquaticus
+Corixidae
+Gerridae
+Libellulidae
+Naucoridae
+Notonecta glauca
+Petit dytique
+Triton palmé
+Asellus aquaticus
+Bivalve
+Corixidae
+Libellulidae
+"Mollusque pointu"
+Petit dytique
+Physe
+Triton palmé
+Corixidae
+Ecrevisse de Louisiane
+Notonecta glauca
+Acilius spp.
+Asellus aquaticus
+Corixidae
+Ecrevisse de Louisiane
+Gammare spp.
+Gerridae
+Notonecta glauca
+Petit dytique
+Physe
+Triton palmé
+Bivalve
+Corixidae
+Gammare spp.
+Gerridae
+Hygrobiidae
+Notonecta glauca
+Petit dytique
+Physe
+Triton palmé
+Asellus aquaticus
+Corixidae
+Ecrevisse de Louisiane
+Libellulidae
+Petit dytique
+Physe
+Acilius spp.
+Bivalve
+Corixidae
+Glossiphonie
+Hygrobiidae
+Libellulidae
+Naucoridae
+Notonecta glauca
+Petit dytique
+Physe
+Triton palmé
+Acilius spp.
+Asellus aquaticus
+Corixidae
+Ecrevisse de Louisiane
+Gammare spp.
+Gerridae
+Notonecta glauca
+Petit dytique
+Physe
+Gerridae
+Libellulidae
+Asellus aquaticus
+Corixidae
+Ecrevisse de Louisiane
+Gammare spp.
+Gerridae
+Notonecta glauca
+Physe
+Corixidae
+Gammare spp.
+Gerridae
+Physe
+Ecrevisse de Louisiane
+Gerridae
