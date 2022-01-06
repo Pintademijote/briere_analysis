@@ -1,7 +1,7 @@
 
 ####CrÃ©ation de la matrice rÃ©gionnale
 
-source('~/Documents/Stages_theses/2018/M1_reseaux_trophiques/PG_Sept2018/Data/Script_Function/utils_NAR.R') #This code is used to compute all the network metrics
+source('./Script_Function/utils_NAR.R') #This code is used to compute all the network metrics
 
 create_matrix=function(x){
   # Name of the matrix

@@ -4,17 +4,23 @@ require("NetIndices")
 library("scales")
 
 
-setwd("C:/Users/pglem/Documents/Master/Stage M1/Rendu/Data/Data")
-Matrix_Reg_Manual=read.delim2("C:/Users/pglem/Documents/Master/Stage M1/Backup_INRA/Data/Script/Matrix_Final.txt", row.names = 1)
-colnames(Matrix_Reg_Manual)=row.names(Matrix_Reg_Manual)
-Matrix_Reg_Manual=as.matrix(Matrix_Reg_Manual)
-envi_data=read.table("envi_data.txt",header=T)
-tab_releve=read.delim("tab_releve.txt")
-dist=read.delim2("Distance.txt")
-colnames(dist)[2]="Distance"
+Matrix_Reg_Manual <- read.delim2("./Data/matrice_predation_nbliens.txt", row.names = 1)
+Matrix_Reg_Manual <- as.matrix(Matrix_Reg_Manual)
+colnames(Matrix_Reg_Manual) <- row.names(Matrix_Reg_Manual)
+Matrix_Reg_Manual[which(Matrix_Reg_Manual > 1)] <- 1
+
+envi_data <- read.table("./Data/envi_data.txt",header=T)
+
+tab_releve <- read.delim("./Data/tab_releve.txt")
+
+dist <- read.delim2("./Data/Distance.txt")
+
+colnames(dist)[2] <- "Distance"
+
 ####
-source("C:/Users/pglem/Documents/Master/Stage M1/Rendu/Data/Script_Function/matrix_function.R")
+source("./Script_Function/matrix_function.R")
 ####
+
 data_format(tab_releve,envi_data,dist)
 
 ####
@@ -22,7 +28,7 @@ data_format(tab_releve,envi_data,dist)
 
 x=Matrix_Reg_Manual
 y=envi_data
-t=100
+t=500
 name_tab="data"
 repeti=2
 
@@ -34,8 +40,8 @@ simu_TTIB_Rep=function(x,y,t=200,name_tab="data",repeti=100){
   DisP=rescale(y$Distance, c(0.95,0.05))
   SurfP=rescale(log(y$Surface), c(0.95,0.05))
   P=length(x[,1])
-  Base=c("Detritus","Macrophyte","Phytoplankton","Zooplankton")
-  basal=c("Detritus","Macrophyte","Phytoplankton")
+  Base=c("Detritus", "Macrophyte", "Phytoplancton", "Zooplancton", "Bacteria", "Biofilm", "Protozoaire")
+  basal=c("Detritus", "Macrophyte", "Phytoplankton")
   
   for (repet in 1:repeti) {
     
@@ -48,7 +54,7 @@ simu_TTIB_Rep=function(x,y,t=200,name_tab="data",repeti=100){
       temp=matrix(0,length(x[,1]),t)
       row.names(temp)=row.names(x)
       
-      temp[Base,1]=1
+      temp[which(row.names(temp) %in% Base), 1]=1
       
       for (i in 2:t) {
         Colonization=0
@@ -59,12 +65,12 @@ simu_TTIB_Rep=function(x,y,t=200,name_tab="data",repeti=100){
         if(i>1){
           temp[,i]=temp[,i-1]
           present=names(temp[temp[,i-1]==1,i-1])
-          possible=colnames(x[present,colSums(x[present,])!=0])
+          possible=colnames(x[present, colSums(x[present,]) != 0])
           possible=possible[!(possible %in% present)]
           Colonization=sample(c(0,1),1,prob = c(1-C,C))
           Extinction=sample(c(0,1),1,prob = c(1-E,E))
           
-          if(Colonization==1){
+          if(Colonization == 1 & !rlang::is_empty(possible)){
             add=sample(possible,1)
             temp[add,i]=1
           }
@@ -125,7 +131,7 @@ simu_TTIB_Rep=function(x,y,t=200,name_tab="data",repeti=100){
       extinction_rate <- SurfP[mares]
       
       
-      cur_out <- data.frame(replicate=repeti, S=length(present), C, links,modularity_t,
+      cur_out <- data.frame(replicate=repet, S=length(present), C, links,modularity_t,
                             Mean_Trophic_Level,Mean_Omnivory,links.species, 
                             indegree, outdegree, basal, top, intermediate, omnivory, S_top, 
                             S_intermediate, S_basal, ratio, colonization_rate,
@@ -152,7 +158,7 @@ simu_TTIB_Rep=function(x,y,t=200,name_tab="data",repeti=100){
 
 
 
-simu_TTIB_Rep(Matrix_Reg_Manual,envi_data,t=500,name_tab="data",repeti = 1)
+simu_TTIB_Rep(Matrix_Reg_Manual,envi_data,t=500,name_tab="data",repeti = 2)
 
 
 #write.table(data,"simulation_TTIB.txt", sep="\t")
