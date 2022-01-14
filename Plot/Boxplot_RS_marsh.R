@@ -1,24 +1,22 @@
-setwd("C:/Users/pglem/Documents/Master/Stage M1/Rendu/Data/Data")
-#setwd("~/Documents/Stages_theses/2018/M1_reseaux_trophiques/Data")
-
 require("enaR")
 require("igraph")
 require("NetIndices")
 require("nlme")
 require("mgcv")
 library("ggplot2")
+library(cheddar)
 
 # Import trophic link database
-tab_trophic=read.delim("tab_trophic.txt")
+tab_trophic=read.delim("./Data/tab_trophic.txt")
 colnames(tab_trophic)[1]="Predator"
 # Import taxon occurrence data
-tab_releve=read.delim("tab_releve.txt")
+tab_releve=read.delim("./Data/tab_releve.txt")
 # Import manual matrix
-Matrix_Reg_Manual=read.delim2("Matrix_Final.txt", row.names = 1)
+Matrix_Reg_Manual=read.delim2("./Data/Matrix_Final.txt", row.names = 1)
 colnames(Matrix_Reg_Manual)=row.names(Matrix_Reg_Manual)
 Matrix_Reg_Manual=as.matrix(Matrix_Reg_Manual)
 
-sites=levels(tab_releve$Id_Sites)
+sites=unique(tab_releve$Id_Sites)
 for (i in sites) {
   x=tab_releve[tab_releve$Id_Sites==i,]
   if(all(c("Aeshnidae","Anisoptere","Libellulidae") %in% x$Taxon)){
@@ -36,26 +34,26 @@ for (i in sites) {
   }
 }
 
-levels(tab_releve$Taxon)[which(!(levels(tab_releve$Taxon) %in% colnames(Matrix_Reg_Manual)))]
+unique(tab_releve$Taxon)[which(!(unique(tab_releve$Taxon) %in% colnames(Matrix_Reg_Manual)))]
 
 tab_releve=tab_releve[tab_releve$Taxon!="Couleuvre a collier",]
 
 # Import environmental variables
-envi_data=read.table("envi_data.txt",header=T)
+envi_data=read.table("./Data/envi_data.txt",header=T)
 # Import distance from marsh
-dist=read.delim2("Distance.txt")
+dist=read.delim2("./Data/Distance.txt")
 colnames(dist)[2]="Distance"
 
 #data=read.delim("data.txt")
 
 # Import function to create matrix
 #source("S:/2018/pglemasle/Data/Script/matrix_function.R")
-source("C:/Users/pglem/Documents/Master/Stage M1/Rendu/Data/Script_Function/matrix_function.R")
+source("./Script_Function/matrix_function.R")
 ##########Marais/Mare
 
 releve_marais=tab_releve[tab_releve$Milieux=="Marais",]
 releve_marais=droplevels(releve_marais)
-marais=levels(releve_marais$Id_Sites)
+marais=unique(releve_marais$Id_Sites)
 
 ##########
 
@@ -77,7 +75,7 @@ data=datacount
 div=c(1:length(marais))
 for (i in 1:length(marais)) {
   
-  div[i]=length(levels(droplevels(releve_marais[releve_marais$Id_Sites==marais[i],7])))
+  div[i]=length(unique(releve_marais[releve_marais$Id_Sites==marais[i],7]))
 }
 
 mean(div)
@@ -90,15 +88,15 @@ meanresults[1:155,1]=data$n
 meanresults[1:155,2]="Ponds"
 meanresults[156:173,1]=div
 meanresults[156:173,2]="Marsh"
-colnames(meanresults)=c("Richesse_spécifique","Lieu")
+colnames(meanresults)=c("Richesse_spÃ©cifique","Lieu")
 
 hist(meanresults[1:155,1], breaks=100)
 
 
 
-BOXPLOT=ggplot(meanresults, aes(x=Lieu,y=Richesse_spécifique))+
+BOXPLOT=ggplot(meanresults, aes(x=Lieu,y=Richesse_spÃ©cifique))+
   geom_boxplot(aes(fill=Lieu), fatten = 5)+
-  xlab("") + ylab("Richesse spécifique") +
+  xlab("") + ylab("Richesse_spÃ©cifique") +
   expand_limits(y=45)+
   theme(axis.line = element_line(colour = "black"),
         panel.grid.major = element_blank(),
